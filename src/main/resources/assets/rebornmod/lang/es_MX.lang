@@ -833,4 +833,9 @@ paleopad.os.name=PaleoPad 1.0.1
 commands.spawnrb.usuage=/spawnrb <structure> [rotation] [mirror] [seed]
 commands.spawnrb.notfound=No se encuentra la estructura %s
 commands.spawnrb.notrot=El valor de rotación %s no es valido
-commands.spawnrb.notmirror=El valor de espejo %s no es valido
+
+item.foot_bone.name={dino} Foot Bone
+item.scales.name={dino} Scales
+item.tail_fin.name={dino} Tail Fin
+item.tusks.name={dino} Tusks
+item.tracking_dart.name=Tracking Dartcommands.spawnrb.notmirror=El valor de espejo %s no es valido

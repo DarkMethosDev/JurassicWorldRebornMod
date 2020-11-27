@@ -1,7 +1,6 @@
 package mod.reborn.client.sound;
 
 import com.google.common.collect.Lists;
-import net.minecraft.client.audio.Sound;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.SoundEvent;
 import mod.reborn.RebornMod;

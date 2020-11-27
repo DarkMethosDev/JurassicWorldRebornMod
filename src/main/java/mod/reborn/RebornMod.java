@@ -3,7 +3,6 @@ package mod.reborn;
 import mod.reborn.server.message.*;
 import mod.reborn.server.proxy.ServerProxy;
 import net.ilexiconn.llibrary.server.network.NetworkWrapper;
-import net.ilexiconn.llibrary.server.update.UpdateHandler;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.Instance;
 import net.minecraftforge.fml.common.SidedProxy;

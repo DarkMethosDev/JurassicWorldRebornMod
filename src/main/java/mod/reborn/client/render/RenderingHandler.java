@@ -10,7 +10,6 @@ import mod.reborn.client.render.entity.*;
 import mod.reborn.client.render.entity.dinosaur.TroodonRenderInfo;
 import mod.reborn.server.block.*;
 import mod.reborn.server.block.entity.*;
-import mod.reborn.server.block.machine.FeederBlock;
 import mod.reborn.server.conf.RebornConfig;
 import mod.reborn.server.entity.animal.EntityCrab;
 import mod.reborn.server.entity.animal.EntityShark;

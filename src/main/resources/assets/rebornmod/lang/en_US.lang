@@ -185,7 +185,7 @@ item.tail_fin_fresh.name=Fresh {dino} Tail Fin
 item.foot_bone_fresh.name=Fresh {dino} Foot Bone
 item.tusks_fresh.name=Fresh {dino} Tusks
 
-// Bones
+//Bones
 item.bones.name={dino} Bones
 item.femur.name={dino} Femur
 item.skull.name={dino} Skull
