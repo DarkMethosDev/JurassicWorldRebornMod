@@ -3,7 +3,7 @@
 ### RebornMod Leader
 Vitiate (Worst then Caz honestly)
 
-### Jurassic World Reborn is a prehistoric creature Mod, inspired by the classic dinosaur mod "JurassiCraft". While the mod carries several similarities to JurassiCraft, the code is not JurassiCraft's code, but our own property, having been entirely written by our coders. 
+### Jurassic World Reborn is a prehistoric creature Mod, taken from the dinosaur mod JurassiCraft, this mod plans to steal everything JurassiCraft has, including the source code, and much more!
 
 ### Developers
 
@@ -15,7 +15,7 @@ Last_Dovahkiin
 
 WinterKILLER435 // DroidBait284
 
-Verified_Bear // Alis
+Verified_Bear // Alis (Fucking bitch for stealing my role as sound designer)
 
 AveLardo12 // InnovativePachyderm
 
@@ -43,7 +43,7 @@ Loxures
 
 Josef_Germany (MCingram) 
 
-Verified_Bear
+Verified_Bear (Fucking bitch for stealing my role as sound designer)
 
 GuardianInASuit
 
@@ -63,7 +63,7 @@ RextheZilla98
 
 AGSucho
 
-JurassicXenomorph
+JurassicXenomorph (The better sound creator then Alis/Verified_Bear)
 
 Ms.Random
 
