@@ -9,6 +9,8 @@ Vitiate (Worst then Caz honestly)
 
 Wyn Price
 
+Collinvht
+
 Last_Dovahkiin
 
 ### Modelers / Sound Designers / Textures /  Concept Artists
@@ -52,8 +54,6 @@ GuardianInASuit
 Just Monika 
 
 Firewolf786YT
-
-Collinvht
 
 Boom
 
